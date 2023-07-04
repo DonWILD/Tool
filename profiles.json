@@ -3,8 +3,8 @@
     "id": "Dice1630",
     "name": "Shannon Dice1630",
     "bonusFormula": {
-      "bonusMultiplier": 1,
-      "rolloverMultiplier": 20,
+      "bonusMultiplier": 1.5,
+      "rolloverMultiplier": 30,
       "bustOutCompMultiplier": 0.3,
       "bustOutRolloverMultiplier": 20,
       "boLoyaltyMultiplier": 0.1
@@ -12,7 +12,7 @@
     "bonusStatus": "Good to go",
     "pendingSettlements": "none",
     "bonusPackage": [
-      "Deposit Bonus: 100% Cash Bonus / 20x Rollover",
+      "Deposit Bonus: 150% Cash Bonus / 30x Rollover",
       "Bustout Comp: 30% / 20x Rollover",
       "Loyalty Comp: 10% on net losses since last addition / 20x"
     ],
