@@ -1,7 +1,7 @@
 [
   {
     "id": "Dice1630",
-    "name": "Shannon Todd Dice1630",
+    "name": "Shannon Dice1630",
     "bonusFormula": {
       "bonusMultiplier": 1,
       "rolloverMultiplier": 20,
@@ -34,7 +34,7 @@
   },
   {
     "id": "Dice325",
-    "name": "Richard McDaniel Dice325",
+    "name": "Rick Dice325",
     "bonusFormula": {
       "bonusMultiplier": 1,
       "rolloverMultiplier": 8,
@@ -55,7 +55,7 @@
       "Amex Processing: Remove $15 + %3.5"
     ],
     "telephone": "555-5678",
-    "houseName": "McDaniel Residence",
+    "houseName": "Daniel Residence",
     "street": "456 Oak Ave",
     "town": "Townville",
     "county": "County",
@@ -67,7 +67,7 @@
   },
   {
     "id": "Dice105",
-    "name": "Frank Binetti Dice105",
+    "name": "Frank  Dice105",
     "bonusFormula": {
       "bonusMultiplier": 1.5,
       "rolloverMultiplier": 12
@@ -78,12 +78,12 @@
       "Deposit Bonus: 150% Cash Bonus / 12x R.O"
     ],
     "clientInfo": [
-      "Never prefund binetti",
+      "Never prefund B",
       "He is permitted to use his dad and girlfriend's card, We DON'T save those card numbers",
       "Amex Processing: Remove $15 + %3.5"
     ],
     "telephone": "555-9876",
-    "houseName": "Binetti Residence",
+    "houseName": "Binn Residence",
     "street": "789 Elm St",
     "town": "Villageville",
     "county": "County",
