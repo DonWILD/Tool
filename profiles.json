@@ -6,8 +6,7 @@
       "bonusMultiplier": 1.5,
       "rolloverMultiplier": 30,
       "bustOutCompMultiplier": 0.3,
-      "bustOutRolloverMultiplier": 20,
-      "boLoyaltyMultiplier": 0.1
+      "bustOutRolloverMultiplier": 20
     },
     "bonusStatus": "Good to go",
     "pendingSettlements": "none",
@@ -40,7 +39,7 @@
       "rolloverMultiplier": 8,
       "bustOutCompMultiplier": 0.5,
       "bustOutRolloverMultiplier": 8,
-      "boLoyaltyMultiplier": 0.15
+      "boLoyaltyMultiplier": 0.65
     },
     "bonusStatus": "Good to go",
     "pendingSettlements": "none",
